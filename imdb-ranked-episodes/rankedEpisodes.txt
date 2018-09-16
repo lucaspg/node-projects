@@ -1,0 +1,710 @@
+[
+  {
+    "title": "Through the Looking Glass",
+    "season": "3",
+    "episode": "22",
+    "rating": 9.7
+  },
+  {
+    "title": "The Constant",
+    "season": "4",
+    "episode": "5",
+    "rating": 9.7
+  },
+  {
+    "title": "Exodus: Part 2 (Part II)",
+    "season": "1",
+    "episode": "25",
+    "rating": 9.6
+  },
+  {
+    "title": "Live Together, Die Alone",
+    "season": "2",
+    "episode": "23",
+    "rating": 9.5
+  },
+  {
+    "title": "Exodus: Part 2 (Part I)",
+    "season": "1",
+    "episode": "24",
+    "rating": 9.4
+  },
+  {
+    "title": "There's No Place Like Home: Part 2",
+    "season": "4",
+    "episode": "13",
+    "rating": 9.4
+  },
+  {
+    "title": "Pilot: Part 1",
+    "season": "1",
+    "episode": "1",
+    "rating": 9.3
+  },
+  {
+    "title": "The Incident: Part 2",
+    "season": "5",
+    "episode": "17",
+    "rating": 9.3
+  },
+  {
+    "title": "The Man Behind the Curtain",
+    "season": "3",
+    "episode": "20",
+    "rating": 9.3
+  },
+  {
+    "title": "Man of Science, Man of Faith",
+    "season": "2",
+    "episode": "1",
+    "rating": 9.3
+  },
+  {
+    "title": "Ab Aeterno",
+    "season": "6",
+    "episode": "9",
+    "rating": 9.3
+  },
+  {
+    "title": "The Incident: Part 1",
+    "season": "5",
+    "episode": "16",
+    "rating": 9.3
+  },
+  {
+    "title": "Exodus: Part 1",
+    "season": "1",
+    "episode": "23",
+    "rating": 9.2
+  },
+  {
+    "title": "Flashes Before Your Eyes",
+    "season": "3",
+    "episode": "8",
+    "rating": 9.2
+  },
+  {
+    "title": "There's No Place Like Home: Part 3",
+    "season": "4",
+    "episode": "14",
+    "rating": 9.2
+  },
+  {
+    "title": "Greatest Hits",
+    "season": "3",
+    "episode": "21",
+    "rating": 9.2
+  },
+  {
+    "title": "Lockdown",
+    "season": "2",
+    "episode": "17",
+    "rating": 9.2
+  },
+  {
+    "title": "Numbers",
+    "season": "1",
+    "episode": "18",
+    "rating": 9.2
+  },
+  {
+    "title": "Pilot: Part 2",
+    "season": "1",
+    "episode": "2",
+    "rating": 9.2
+  },
+  {
+    "title": "Walkabout",
+    "season": "1",
+    "episode": "4",
+    "rating": 9.2
+  },
+  {
+    "title": "The Brig",
+    "season": "3",
+    "episode": "19",
+    "rating": 9.1
+  },
+  {
+    "title": "There's No Place Like Home: Part 1",
+    "season": "4",
+    "episode": "12",
+    "rating": 9.1
+  },
+  {
+    "title": "Deus Ex Machina",
+    "season": "1",
+    "episode": "19",
+    "rating": 9.1
+  },
+  {
+    "title": "The Shape of Things to Come",
+    "season": "4",
+    "episode": "9",
+    "rating": 9.1
+  },
+  {
+    "title": "The Man from Tallahassee",
+    "season": "3",
+    "episode": "13",
+    "rating": 9.1
+  },
+  {
+    "title": "The Other 48 Days",
+    "season": "2",
+    "episode": "7",
+    "rating": 9
+  },
+  {
+    "title": "The Candidate",
+    "season": "6",
+    "episode": "14",
+    "rating": 9
+  },
+  {
+    "title": "Two for the Road",
+    "season": "2",
+    "episode": "20",
+    "rating": 9
+  },
+  {
+    "title": "LaFleur",
+    "season": "5",
+    "episode": "8",
+    "rating": 9
+  },
+  {
+    "title": "Happily Ever After",
+    "season": "6",
+    "episode": "11",
+    "rating": 9
+  },
+  {
+    "title": "LA X - Part 1",
+    "season": "6",
+    "episode": "1",
+    "rating": 8.9
+  },
+  {
+    "title": "All the Best Cowboys Have Daddy Issues",
+    "season": "1",
+    "episode": "11",
+    "rating": 8.9
+  },
+  {
+    "title": "The Life and Death of Jeremy Bentham",
+    "season": "5",
+    "episode": "7",
+    "rating": 8.9
+  },
+  {
+    "title": "?",
+    "season": "2",
+    "episode": "21",
+    "rating": 8.9
+  },
+  {
+    "title": "Dead Is Dead",
+    "season": "5",
+    "episode": "12",
+    "rating": 8.9
+  },
+  {
+    "title": "Do No Harm",
+    "season": "1",
+    "episode": "20",
+    "rating": 8.9
+  },
+  {
+    "title": "The Beginning of the End",
+    "season": "4",
+    "episode": "1",
+    "rating": 8.9
+  },
+  {
+    "title": "The Variable",
+    "season": "5",
+    "episode": "14",
+    "rating": 8.9
+  },
+  {
+    "title": "Orientation",
+    "season": "2",
+    "episode": "3",
+    "rating": 8.8
+  },
+  {
+    "title": "Follow the Leader",
+    "season": "5",
+    "episode": "15",
+    "rating": 8.8
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "season": "3",
+    "episode": "1",
+    "rating": 8.8
+  },
+  {
+    "title": "One of Them",
+    "season": "2",
+    "episode": "14",
+    "rating": 8.8
+  },
+  {
+    "title": "Enter 77",
+    "season": "3",
+    "episode": "11",
+    "rating": 8.8
+  },
+  {
+    "title": "The Long Con",
+    "season": "2",
+    "episode": "13",
+    "rating": 8.8
+  },
+  {
+    "title": "The 23rd Psalm",
+    "season": "2",
+    "episode": "10",
+    "rating": 8.8
+  },
+  {
+    "title": "One of Us",
+    "season": "3",
+    "episode": "16",
+    "rating": 8.8
+  },
+  {
+    "title": "Collision",
+    "season": "2",
+    "episode": "8",
+    "rating": 8.8
+  },
+  {
+    "title": "Not in Portland",
+    "season": "3",
+    "episode": "7",
+    "rating": 8.8
+  },
+  {
+    "title": "Outlaws",
+    "season": "1",
+    "episode": "16",
+    "rating": 8.8
+  },
+  {
+    "title": "Raised by Another",
+    "season": "1",
+    "episode": "10",
+    "rating": 8.8
+  },
+  {
+    "title": "Confidence Man",
+    "season": "1",
+    "episode": "8",
+    "rating": 8.8
+  },
+  {
+    "title": "Because You Left",
+    "season": "5",
+    "episode": "1",
+    "rating": 8.8
+  },
+  {
+    "title": "Confirmed Dead",
+    "season": "4",
+    "episode": "2",
+    "rating": 8.8
+  },
+  {
+    "title": "What They Died For",
+    "season": "6",
+    "episode": "16",
+    "rating": 8.8
+  },
+  {
+    "title": "This Place Is Death",
+    "season": "5",
+    "episode": "5",
+    "rating": 8.8
+  },
+  {
+    "title": "Cabin Fever",
+    "season": "4",
+    "episode": "11",
+    "rating": 8.8
+  },
+  {
+    "title": "Solitary",
+    "season": "1",
+    "episode": "9",
+    "rating": 8.7
+  },
+  {
+    "title": "316",
+    "season": "5",
+    "episode": "6",
+    "rating": 8.7
+  },
+  {
+    "title": "I Do",
+    "season": "3",
+    "episode": "6",
+    "rating": 8.7
+  },
+  {
+    "title": "He's Our You",
+    "season": "5",
+    "episode": "10",
+    "rating": 8.7
+  },
+  {
+    "title": "Dr. Linus",
+    "season": "6",
+    "episode": "7",
+    "rating": 8.7
+  },
+  {
+    "title": "The Economist",
+    "season": "4",
+    "episode": "3",
+    "rating": 8.7
+  },
+  {
+    "title": "Jughead",
+    "season": "5",
+    "episode": "3",
+    "rating": 8.7
+  },
+  {
+    "title": "Namaste",
+    "season": "5",
+    "episode": "9",
+    "rating": 8.7
+  },
+  {
+    "title": "LA X - Part 2",
+    "season": "6",
+    "episode": "2",
+    "rating": 8.7
+  },
+  {
+    "title": "The Hunting Party",
+    "season": "2",
+    "episode": "11",
+    "rating": 8.6
+  },
+  {
+    "title": "Ji Yeon",
+    "season": "4",
+    "episode": "7",
+    "rating": 8.6
+  },
+  {
+    "title": "Catch-22",
+    "season": "3",
+    "episode": "17",
+    "rating": 8.6
+  },
+  {
+    "title": "Tabula Rasa",
+    "season": "1",
+    "episode": "3",
+    "rating": 8.6
+  },
+  {
+    "title": "Maternity Leave",
+    "season": "2",
+    "episode": "15",
+    "rating": 8.6
+  },
+  {
+    "title": "Meet Kevin Johnson",
+    "season": "4",
+    "episode": "8",
+    "rating": 8.6
+  },
+  {
+    "title": "...In Translation",
+    "season": "1",
+    "episode": "17",
+    "rating": 8.6
+  },
+  {
+    "title": "Everybody Loves Hugo",
+    "season": "6",
+    "episode": "12",
+    "rating": 8.6
+  },
+  {
+    "title": "The Moth",
+    "season": "1",
+    "episode": "7",
+    "rating": 8.6
+  },
+  {
+    "title": "White Rabbit",
+    "season": "1",
+    "episode": "5",
+    "rating": 8.6
+  },
+  {
+    "title": "Three Minutes",
+    "season": "2",
+    "episode": "22",
+    "rating": 8.6
+  },
+  {
+    "title": "Homecoming",
+    "season": "1",
+    "episode": "15",
+    "rating": 8.5
+  },
+  {
+    "title": "Abandoned",
+    "season": "2",
+    "episode": "6",
+    "rating": 8.5
+  },
+  {
+    "title": "Some Like It Hoth",
+    "season": "5",
+    "episode": "13",
+    "rating": 8.5
+  },
+  {
+    "title": "Par Avion",
+    "season": "3",
+    "episode": "12",
+    "rating": 8.5
+  },
+  {
+    "title": "Adrift",
+    "season": "2",
+    "episode": "2",
+    "rating": 8.5
+  },
+  {
+    "title": "What Kate Did",
+    "season": "2",
+    "episode": "9",
+    "rating": 8.5
+  },
+  {
+    "title": "The Greater Good",
+    "season": "1",
+    "episode": "21",
+    "rating": 8.5
+  },
+  {
+    "title": "Whatever Happened, Happened",
+    "season": "5",
+    "episode": "11",
+    "rating": 8.5
+  },
+  {
+    "title": "Every Man for Himself",
+    "season": "3",
+    "episode": "4",
+    "rating": 8.5
+  },
+  {
+    "title": "Everybody Hates Hugo",
+    "season": "2",
+    "episode": "4",
+    "rating": 8.5
+  },
+  {
+    "title": "The Substitute",
+    "season": "6",
+    "episode": "4",
+    "rating": 8.5
+  },
+  {
+    "title": "The Whole Truth",
+    "season": "2",
+    "episode": "16",
+    "rating": 8.4
+  },
+  {
+    "title": "The Little Prince",
+    "season": "5",
+    "episode": "4",
+    "rating": 8.4
+  },
+  {
+    "title": "House of the Rising Sun",
+    "season": "1",
+    "episode": "6",
+    "rating": 8.4
+  },
+  {
+    "title": "The Last Recruit",
+    "season": "6",
+    "episode": "13",
+    "rating": 8.4
+  },
+  {
+    "title": "The Lie",
+    "season": "5",
+    "episode": "2",
+    "rating": 8.4
+  },
+  {
+    "title": "D.O.C.",
+    "season": "3",
+    "episode": "18",
+    "rating": 8.4
+  },
+  {
+    "title": "Left Behind",
+    "season": "3",
+    "episode": "15",
+    "rating": 8.4
+  },
+  {
+    "title": "Dave",
+    "season": "2",
+    "episode": "18",
+    "rating": 8.4
+  },
+  {
+    "title": "Tricia Tanaka Is Dead",
+    "season": "3",
+    "episode": "10",
+    "rating": 8.4
+  },
+  {
+    "title": "The Cost of Living",
+    "season": "3",
+    "episode": "5",
+    "rating": 8.4
+  },
+  {
+    "title": "Hearts and Minds",
+    "season": "1",
+    "episode": "13",
+    "rating": 8.3
+  },
+  {
+    "title": "Eggtown",
+    "season": "4",
+    "episode": "4",
+    "rating": 8.3
+  },
+  {
+    "title": "Across the Sea",
+    "season": "6",
+    "episode": "15",
+    "rating": 8.3
+  },
+  {
+    "title": "Lighthouse",
+    "season": "6",
+    "episode": "5",
+    "rating": 8.3
+  },
+  {
+    "title": "Sundown",
+    "season": "6",
+    "episode": "6",
+    "rating": 8.3
+  },
+  {
+    "title": "Born to Run",
+    "season": "1",
+    "episode": "22",
+    "rating": 8.3
+  },
+  {
+    "title": "Special",
+    "season": "1",
+    "episode": "14",
+    "rating": 8.3
+  },
+  {
+    "title": "Exposé",
+    "season": "3",
+    "episode": "14",
+    "rating": 8.2
+  },
+  {
+    "title": "The End",
+    "season": "6",
+    "episode": "17",
+    "rating": 8.2
+  },
+  {
+    "title": "Further Instructions",
+    "season": "3",
+    "episode": "3",
+    "rating": 8.2
+  },
+  {
+    "title": "Something Nice Back Home",
+    "season": "4",
+    "episode": "10",
+    "rating": 8.2
+  },
+  {
+    "title": "The Glass Ballerina",
+    "season": "3",
+    "episode": "2",
+    "rating": 8.2
+  },
+  {
+    "title": "Whatever the Case May Be",
+    "season": "1",
+    "episode": "12",
+    "rating": 8.2
+  },
+  {
+    "title": "The Package",
+    "season": "6",
+    "episode": "10",
+    "rating": 8.1
+  },
+  {
+    "title": "Recon",
+    "season": "6",
+    "episode": "8",
+    "rating": 8.1
+  },
+  {
+    "title": "...And Found",
+    "season": "2",
+    "episode": "5",
+    "rating": 8.1
+  },
+  {
+    "title": "The Other Woman",
+    "season": "4",
+    "episode": "6",
+    "rating": 8.1
+  },
+  {
+    "title": "S.O.S.",
+    "season": "2",
+    "episode": "19",
+    "rating": 8
+  },
+  {
+    "title": "What Kate Does",
+    "season": "6",
+    "episode": "3",
+    "rating": 7.9
+  },
+  {
+    "title": "Fire + Water",
+    "season": "2",
+    "episode": "12",
+    "rating": 7.4
+  },
+  {
+    "title": "Stranger in a Strange Land",
+    "season": "3",
+    "episode": "9",
+    "rating": 7.3
+  }
+]
